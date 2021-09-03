@@ -1,4 +1,4 @@
-# Esta es la primera prueba
+<h1>Esta es la primera prueba</h1>
 
 You can use the [editor on GitHub](https://github.com/salgamosdelaUE/salgamosdelaue/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
